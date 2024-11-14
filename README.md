@@ -8,12 +8,9 @@
 *Steps*
 
     Clone the Repository:
-    Bash
-
+    
     git clone https://github.com/recho1337/Grafana-Prom-Loki.git
-    cd your-repo-name
-
-    Use code with caution.
+    cd Grafana-Prom-Loki
 
 *Start the Services:*
 
